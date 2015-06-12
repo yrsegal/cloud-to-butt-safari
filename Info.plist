@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>Logan Collins</string>
+	<string>Logan Collins/Wire Segal</string>
 	<key>Builder Version</key>
-	<string>8536.26.17</string>
+	<string>10600.5.17</string>
 	<key>CFBundleDisplayName</key>
 	<string>CloudToButt</string>
 	<key>CFBundleIdentifier</key>
@@ -22,14 +22,16 @@
 	<dict>
 		<key>Scripts</key>
 		<dict>
-			<key>End</key>
+			<key>Start</key>
 			<array>
 				<string>cloudtobutt.js</string>
 			</array>
 		</dict>
 	</dict>
 	<key>Description</key>
-	<string>Replaces occurrences of &apos;the cloud&apos; with &apos;my butt&apos;.</string>
+	<string>Replaces occurrences of 'the cloud' with 'my butt'.</string>
+	<key>DeveloperIdentifier</key>
+	<string>4CC83QNW34</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
